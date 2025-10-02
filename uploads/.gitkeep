@@ -1,0 +1,4 @@
+# Diretório para uploads de arquivos
+
+Este diretório é usado para armazenar arquivos enviados pelos usuários.
+Mantenha este arquivo (.gitkeep) para garantir que o diretório seja incluído no repositório Git.
